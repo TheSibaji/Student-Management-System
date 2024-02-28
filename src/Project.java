@@ -6,7 +6,7 @@ class Student {
     private int id;
     private String name;
     private String grade;
-    private String dateOfBirth; // Changed variable name to follow camelCase convention
+    private String dateOfBirth;
     private String address;
 
     public Student(int id, String name, String grade, String dateOfBirth, String address) {
